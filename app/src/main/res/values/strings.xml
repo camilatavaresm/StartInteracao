@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Start Química</string>
+    <string name="inovando_sempre">INOVANDO SEMPRE</string>
+    <string name="appis_smart_iot">Appis Smart IoT</string>
+    <string name="escolha">Parabéns pela escolha!</string>
+    <string name="limpa">Limpa muito mais!</string>
+    <string name="cozinha">Ótimo para sua cozinha!</string>
+    <string name="banheiro">Seu banheiro limpinho!</string>
+
+</resources>
